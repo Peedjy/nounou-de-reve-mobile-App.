@@ -9,7 +9,7 @@ She can select the children from the main page<br>
 Input date and time using date picker and time picker <br>
 <img src="./img 02.JPG">
 <br>
-<img src="./img 03.JPG">
+<img src="./screenshots/img 03.JPG">
 
 <img src="./img 04.JPG">
 <br>

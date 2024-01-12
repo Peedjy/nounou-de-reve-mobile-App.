@@ -5,7 +5,7 @@ She can manage several childrens arriving and leaving at differente every days h
 So to replace his small piece of paper and pen…. I create this mobile app. with Flutter.<br>
 
 She can select the children from the main page<br>
-<img src="./screenshots/img 01.JPG"> <br>
+<img src="./img 01.JPG"> <br>
 Input date and time using date picker and time picker <br>
 <img src="./img 02.JPG">
 <br>

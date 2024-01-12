@@ -5,15 +5,15 @@ She can manage several childrens arriving and leaving every days, at differente 
 So to replace his small piece of paper and pen…. I create this mobile app. with Flutter.<br>
 
 She can select the children from the main page<br>
-<img src="./img01.JPG"> <br>
+<img src="./screenshots/img01.jpg"> <br>
 Input date and time using date picker and time picker <br>
-<img src="./img 02.JPG">
+<img src="./screenshots/img02.jpg">
 <br>
-<img src="./screenshots/img 03.JPG">
+<img src="./screenshots/img03.jpg">
 
-<img src="./img 04.JPG">
+<img src="./screenshots/img04.jpg">
 <br>
-<img src="./img 05.JPG">
+<img src="./screenshots/img05.jpg">
 
 Data are loaded into a google sheeet, so quite easy to totalize at the end of the month or make analysis at the end of the year.  
 
